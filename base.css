@@ -181,6 +181,10 @@ svg {
     --grey-bg-3: #E5ECF6;
 }
 
+summary::-webkit-details-marker {
+    display: none;
+}
+
 .center {
     text-align: center;
 }
